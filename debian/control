@@ -1,0 +1,8 @@
+Source: gnome-i3
+Build-Depends: debhelper (>= 9)
+Maintainer: Sam Morris <sam@robots.org.uk>
+
+Package: gnome-i3
+Architecture: all
+Depends: ${misc:Depends}, gnome-session, i3
+Description: GNOME 3 session using i3 window manager

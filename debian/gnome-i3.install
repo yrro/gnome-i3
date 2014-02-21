@@ -1,0 +1,3 @@
+gnome-i3.desktop /usr/share/xsessions
+gnome-i3.session /usr/share/gnome-session/sessions
+gnome-session-i3 /usr/bin

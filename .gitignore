@@ -1,0 +1,4 @@
+/debian/gnome-i3
+/debian/files
+/debian/*.debhelper.log
+/debian/*.substvars

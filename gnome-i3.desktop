@@ -1,7 +1,7 @@
 [Desktop Entry]
 Name=GNOME i3
-Exec=gnome-session-i3
-TryExec=gnome-session
 Comment=GNOME with the i3 tiling window manager
+Exec=/usr/bin/gnome-session-i3
+TryExec=/usr/bin/gnome-session
 Icon=
 Type=Application

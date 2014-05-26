@@ -1,0 +1,6 @@
+[Desktop Entry]
+Type=Application
+Name=i3-gnome
+NoDisplay=true
+Comment=improved dynamic tiling window manager
+Exec=i3
